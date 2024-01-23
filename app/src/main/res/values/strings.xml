@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MeKotlin4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="мая">мая</string>
+    <string name="_21_07">_21_07_</string>
+    <string name="Введите">Введите</string>
+    <string name="сделать">Сделать</string>
+</resources>
