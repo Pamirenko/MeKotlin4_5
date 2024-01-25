@@ -7,7 +7,6 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
 import com.example.mekotlin4.R
-import com.example.mekotlin4.data.models.NotesModel
 import com.example.mekotlin4.databinding.FragmentHomeBinding
 import com.example.mekotlin4.presentation.ui.adapters.NoteAdapters
 import com.example.mekotlin4.presentation.utils.App
